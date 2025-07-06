@@ -1,3 +1,2 @@
 flask
-maher-zubair-baileys
 pino
